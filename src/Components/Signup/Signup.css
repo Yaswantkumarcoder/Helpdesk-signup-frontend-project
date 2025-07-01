@@ -6,7 +6,7 @@
 .signupform-container{
      display:inline-block;
      background:#55D6C2;
-     padding:100px;
+     padding:30px 120px 40px 120px;
      margin-top:20px;
 }
 .signup-form-contents{
@@ -16,7 +16,7 @@
        color:black;
        font-size:20px;
        background-color:#16be9f;
-       padding:20px 100px 100px 100px;
+       padding:20px 100px 20px 100px;
 }
  .signup-form-contents h1{
       font-style:italic;
@@ -33,8 +33,8 @@
      gap:20px;
 }
 .input-section input{
-    height:40px;
-    width:300px;
+    height:20px;
+    width:200px;
     font-size:larger;
     border:1px solid black;
     padding:5px;
@@ -56,7 +56,7 @@
      display:flex;
       gap:80px;
       margin-top:50px;
-      font-size:25px;
+      font-size:15px;
      
 }
 .bottom-section span:nth-of-type(1){
